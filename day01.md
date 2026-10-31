@@ -6,3 +6,4 @@ git status
 git commit -m "...."
 git log --oneline
 git switch -c branchname
+git push
